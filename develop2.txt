@@ -1,1 +1,0 @@
-"This file is to test the trigger build through Jenkins" 

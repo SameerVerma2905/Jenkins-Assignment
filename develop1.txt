@@ -1,3 +1,0 @@
-"This is develop1 file" 
-
-Editng file to check auto trigger
