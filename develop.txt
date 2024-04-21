@@ -1,1 +1,3 @@
 This is develop file  
+
+Editing develop file for auto trigger
