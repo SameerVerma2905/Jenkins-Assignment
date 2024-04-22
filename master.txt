@@ -1,1 +1,2 @@
 This is master file  
+Editing for auto trigger
